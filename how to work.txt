@@ -1,0 +1,4 @@
+set the path on cmd
+type "gcc -o main main.c"  //to work main.c
+type "main"
+now it is working....
